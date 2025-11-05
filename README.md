@@ -1,10 +1,7 @@
 # Install dependencies
 pip install -r requirements.txt
 
-# Generate sitemap for Daily Amardesh
-python app.py https://example.com
-
-# Or use the class directly
+# Generate sitemap 
 python app.py https://example.com
 
 # With custom parameters
